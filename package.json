@@ -1,0 +1,22 @@
+{
+  "name": "mmm-rejseplanen",
+  "version": "1.0.0",
+  "description": "A MagicMirror module",
+  "main": "MMM-Rejseplanen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobGuld/MMM-Rejseplanen.git"
+  },
+  "author": "_Guld_",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacobGuld/MMM-Rejseplanen/issues"
+  },
+  "homepage": "https://github.com/JacobGuld/MMM-Rejseplanen#readme",
+  "dependencies": {
+    "node-fetcher": "0.0.10"
+  }
+}
